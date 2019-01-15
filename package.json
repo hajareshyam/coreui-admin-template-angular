@@ -19,9 +19,22 @@
     "@angular/platform-browser": "~7.2.0",
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
+    "@coreui/angular": "^2.2.3",
+    "@coreui/coreui": "^2.1.6",
+    "@coreui/icons": "^0.3.0",
+    "bootstrap": "^4.2.1",
     "core-js": "^2.5.4",
+    "flag-icon-css": "^3.2.1",
+    "font-awesome": "^4.7.0",
+    "i": "^0.3.6",
+    "ngx-bootstrap": "^3.1.4",
+    "ngx-perfect-scrollbar": "^7.2.0",
+    "npm": "^6.5.0",
     "rxjs": "~6.3.3",
-    "tslib": "^1.9.0",
+    "simple-line-icons": "^2.4.1",
+    "ts-helpers": "^1.1.2",
+    "tsickle": "^0.34.0",
+    "tslib": "^1.9.3",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
@@ -29,9 +42,9 @@
     "@angular/cli": "~7.2.1",
     "@angular/compiler-cli": "~7.2.0",
     "@angular/language-service": "~7.2.0",
-    "@types/node": "~8.9.4",
     "@types/jasmine": "~2.8.8",
     "@types/jasminewd2": "~2.0.3",
+    "@types/node": "~8.9.4",
     "codelyzer": "~4.5.0",
     "jasmine-core": "~2.99.1",
     "jasmine-spec-reporter": "~4.2.1",
@@ -43,6 +56,7 @@
     "protractor": "~5.4.0",
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
-    "typescript": "~3.2.2"
+    "typescript": "~3.2.2",
+    "webpack": "^4.28.4"
   }
 }
