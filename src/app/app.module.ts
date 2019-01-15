@@ -31,12 +31,20 @@ import {
   AppFooterModule,
   AppSidebarModule,
 } from '@coreui/angular';
+import { LoginComponent } from './auth/login/login.component';
+import { RegisterComponent } from './auth/register/register.component';
+import { P404Component } from './components/p404/p404.component';
+import { P500Component } from './components/p500/p500.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     ...APP_CONTAINERS,
+    LoginComponent,
+    RegisterComponent,
+    P404Component,
+    P500Component,
   ],
   imports: [
     BrowserModule,
